@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/boom.png</file>
+        <file>images/brokenConcreteBlock.png</file>
+        <file>images/ConcreteBlock.png</file>
+        <file>images/dirtblock.png</file>
+        <file>images/enemytank.png</file>
+        <file>images/enemytankhit.png</file>
+        <file>images/hittank.png</file>
+        <file>images/NormalBullet.png</file>
+        <file>images/SBtank.png</file>
+        <file>images/SolidBlock.png</file>
+        <file>images/yourtank.png</file>
+    </qresource>
+</RCC>
